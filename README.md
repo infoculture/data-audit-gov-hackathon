@@ -1,2 +1,4 @@
 # data-audit-gov-hackathon
-Хакатон Счетной палаты
+Первый хакатон Счетной палаты
+
+# Задачи: https://github.com/infoculture/data-audit-gov-hackathon/issues
