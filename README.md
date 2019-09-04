@@ -37,7 +37,7 @@ https://github.com/infoculture/datatasks/issues
 
 # Где общаться и задавать вопросы?
 
-* Вопросы можно задавать:
+Вопросы можно задавать:
 * В telegram-чате хакатона - https://скоробудетссылка
 * В telegram-чате по открытым данным - https://telegram.me/opendatarussiachat
 * Ивану Бегтину в Telegram - http://telegram.me/begtinchat
