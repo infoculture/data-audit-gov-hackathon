@@ -13,6 +13,7 @@ https://github.com/infoculture/datatasks/issues
 * Проект КГИ "Госзатраты" - https://clearspending.ru/;
 * Информационная панель мониторинга достжения наццелей - https://ng.ach.gov.ru/;
 * Мониторинг объектов незавершенного строительства - https://ons.ach.gov.ru/;
+* Данные портала "Реформа ЖКХ" - https://www.reformagkh.ru/opendata;
 * Министерство финансов Российской Федерации - https://www.minfin.ru/ru/opendata/;
 * Федеральное казначество -http://roskazna.ru/opendata/;
 * Федеральная налоговая служба - https://www.nalog.ru/opendata/;
